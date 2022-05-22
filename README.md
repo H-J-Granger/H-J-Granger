@@ -1,0 +1,3 @@
+- 正在打 OI，啥也不会
+- C,C++,CSS,JS 均浅尝辄止
+- 专心打 OI，没时间 contribute
