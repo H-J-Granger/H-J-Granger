@@ -1,3 +1,2 @@
 - C, C++, CSS, JS 均浅尝辄止。
-- Project-Euler 业余玩家
-- Esolang 门外汉
+- Minecraft, PvZ, Esolang, Project-Euler 玩家
