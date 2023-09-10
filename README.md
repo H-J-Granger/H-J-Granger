@@ -1,2 +1,4 @@
-- C, C++, CSS, JS 均浅尝辄止。
-- Minecraft, PvZ, Esolang, Project-Euler 玩家
+- A math undergraduate student in USTC;
+- Write a little C, Python, JavaScript;
+- Wrote lots of C++ when still doing Competitive Programming;
+- Play Minecraft, PvZ, Esolang, Project-Euler.
