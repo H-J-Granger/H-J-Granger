@@ -1,4 +1,5 @@
-- A math undergraduate student in USTC;
+- A math/CS undergraduate student in USTC;
+- Getting started in Theoretic Computer Science;
 - Write some C, Python, and JavaScript;
 - Wrote lots of C++ when still doing competitive programming;
 - Play Minecraft, PvZ, O2NI and Project-Euler.
