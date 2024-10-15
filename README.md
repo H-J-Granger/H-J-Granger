@@ -1,5 +1,5 @@
-- A math/CS undergraduate student in USTC;
-- Getting started in Theoretic Computer Science;
+- A math/CS undergraduate student in [SGY](https://en.scgy.ustc.edu.cn/), [USTC](https://en.ustc.edu.cn/);
+- Getting started in Theoretical Computer Science;
 - Write some C, Python, and JavaScript;
 - Wrote lots of C++ when still doing competitive programming;
 - Play Minecraft, PvZ, O2NI and Project-Euler.
