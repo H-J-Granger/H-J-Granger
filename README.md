@@ -2,5 +2,5 @@
 - Getting started in Theoretical Computer Science;
 - Write some C, Python, and JavaScript;
 - Wrote lots of C++ when still doing competitive programming;
-- Play Touhou smmups, Minecraft, PvZ, O2NI and Project-Euler;
-- Focusing on academics, then [thprac](https://github.com/touhouworldcup/thprac).
+- Play Touhou shmups, Minecraft, PvZ, O2NI and Project-Euler;
+- Focusing on academics, then some Touhou-shmup-related stuff, e.g. [thprac](https://github.com/touhouworldcup/thprac).
